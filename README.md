@@ -13,14 +13,14 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ajitesh-mishra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/ajitesh-mishra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate full-stack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization specialising in AI-powered solutions, CRM systems, and modern web technologies. </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Transcription/Translation api as a service without any size and duration limitation**
-- 🌱 I'm currently learning: **📚 Exploring React Native **
+- 🌱 I'm currently learning: **📚 Exploring React Native**
 - 💬 Ask me about: **💡 JavaScript, React, Next js, Node.js, MongoDB, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
